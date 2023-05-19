@@ -1,0 +1,576 @@
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.84
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.196
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Sahibzada Ajit Singh Nagar, India, Asia
+GeoLocation(lat, lon): 30.7046486, 76.7178726
+Currency             : Indian Rupee
+IP                   : 49.43.100.196
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Sahibzada Ajit Singh Nagar, India, Asia
+GeoLocation(lat, lon): 30.7046486, 76.7178726
+Currency             : Indian Rupee
+IP                   : 49.43.100.196
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Sahibzada Ajit Singh Nagar, India, Asia
+GeoLocation(lat, lon): 30.7046486, 76.7178726
+Currency             : Indian Rupee
+IP                   : 49.43.100.196
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Sahibzada Ajit Singh Nagar, India, Asia
+GeoLocation(lat, lon): 30.7046486, 76.7178726
+Currency             : Indian Rupee
+IP                   : 132.154.136.253
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Hoshiarpur, India, Asia
+GeoLocation(lat, lon): 31.5143178, 75.911483
+Currency             : Indian Rupee
+IP                   : 132.154.136.253
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Hoshiarpur, India, Asia
+GeoLocation(lat, lon): 31.5143178, 75.911483
+Currency             : Indian Rupee
+IP                   : 117.197.137.2
+IP Type              : IPv4
+User OS              : Android
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Bengaluru, India, Asia
+GeoLocation(lat, lon): 12.9715987, 77.5945627
+Currency             : Indian Rupee
+IP                   : 132.154.136.253
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Hoshiarpur, India, Asia
+GeoLocation(lat, lon): 31.5143178, 75.911483
+Currency             : Indian Rupee
+IP                   : 49.43.100.69
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.69
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.69
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.69
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.69
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.100.69
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 185.174.175.42
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Dronten, Netherlands, Europe
+GeoLocation(lat, lon): 52.5346819, 5.7218086
+Currency             : Euro
+IP                   : 185.174.175.42
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Dronten, Netherlands, Europe
+GeoLocation(lat, lon): 52.5346819, 5.7218086
+Currency             : Euro
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Android
+Version              : 13
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Android
+Version              : 8.1.0;
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 119.160.59.189
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Khushāb, Pakistan, Asia
+GeoLocation(lat, lon): 32.2955365, 72.3488721
+Currency             : Pakistani Rupee
+IP                   : 58.27.225.7
+IP Type              : IPv4
+User OS              : Android
+Version              : 9;
+Browser              : Handheld Browser
+Location             : Lahore, Pakistan, Asia
+GeoLocation(lat, lon): 31.5546061, 74.3571581
+Currency             : Pakistani Rupee
+IP                   : 119.160.59.189
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Khushāb, Pakistan, Asia
+GeoLocation(lat, lon): 32.2955365, 72.3488721
+Currency             : Pakistani Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 49.43.99.105
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
